@@ -10,23 +10,26 @@ This book (except for English and Japanese) was created by Primarily Using AI ge
 
 ## 🌍 Language Table of Contents
 
-| Language         | Code    | Status           | Start Learning |
-|------------------|---------|------------------|----------------|
-| 🇯🇵 Japanese      | `jp-jp` | 🚧 In Progress      | [学び始める](./jp-jp/0.md) |
-| 🇺🇸 English (US)  | `en-us` | 🚧 In Progress    | [Start Learning](./en-us/0.md) |
-| 🇪🇸 Spanish       | `es-es` | ⏳ Not Yet Started| _Próximamente_ |
-| 🇨🇳 Mandarin      | `zh-cn` | ⏳ Not Yet Started| _即将推出_ |
-| 🇫🇷 French        | `fr-fr` | ⏳ Not Yet Started| _À venir_ |
-| 🇩🇪 German        | `de-de` | ⏳ Not Yet Started| _Demnächst verfügbar_ |
-| 🇵🇹 Portuguese    | `pt-pt` | ⏳ Not Yet Started| _Em breve_ |
-| 🇷🇺 Russian       | `ru-ru` | ⏳ Not Yet Started| _Скоро_ |
-| 🇮🇳 Hindi         | `hi-in` | ⏳ Not Yet Started| _जल्द ही_ |
-| 🇸🇦 Arabic        | `ar-sa` | ⏳ Not Yet Started| _قريبًا_ |
-| 🇮🇹 Italian       | `it-it` | ⏳ Not Yet Started| _In arrivo_ |
-| 🇰🇷 Korean        | `ko-kr` | ⏳ Not Yet Started| _곧 시작됩니다_ |
-| 🇹🇭 Thai          | `th-th` | ⏳ Not Yet Started| _เร็วๆ นี้_ |
-| 🇹🇷 Turkish       | `tr-tr` | ⏳ Not Yet Started| _Yakında_ |
-| More Coming Soon | | | |
+## 📘 Table of Contents
+
+| Language         | Code    | Status             | Start Learning                          |
+|------------------|---------|--------------------|------------------------------------------|
+| 🇯🇵 Japanese      | `jp-jp` | 🚧 In Progress      | [学び始める](./jp-jp/0.md)               |
+| 🇺🇸 English (US)  | `en-us` | 🚧 In Progress      | [Start Learning](./en-us/0.md)           |
+| 🇪🇸 Spanish       | `es-es` | ⏳ Not Yet Started  | [Pronto](./es-es/0.md)                   |
+| 🇨🇳 Mandarin      | `zh-cn` | ⏳ Not Yet Started  | [即将推出](./zh-cn/0.md)                 |
+| 🇫🇷 French        | `fr-fr` | ⏳ Not Yet Started  | [À venir](./fr-fr/0.md)                  |
+| 🇩🇪 German        | `de-de` | ⏳ Not Yet Started  | [Demnächst verfügbar](./de-de/0.md)      |
+| 🇵🇹 Portuguese    | `pt-pt` | ⏳ Not Yet Started  | [Em breve](./pt-pt/0.md)                 |
+| 🇷🇺 Russian       | `ru-ru` | ⏳ Not Yet Started  | [Скоро](./ru-ru/0.md)                    |
+| 🇮🇳 Hindi         | `hi-in` | ⏳ Not Yet Started  | [जल्द ही](./hi-in/0.md)                 |
+| 🇸🇦 Arabic        | `ar-sa` | ⏳ Not Yet Started  | [قريبًا](./ar-sa/0.md)                  |
+| 🇮🇹 Italian       | `it-it` | ⏳ Not Yet Started  | [In arrivo](./it-it/0.md)                |
+| 🇰🇷 Korean        | `ko-kr` | ⏳ Not Yet Started  | [곧 시작됩니다](./ko-kr/0.md)             |
+| 🇹🇭 Thai          | `th-th` | ⏳ Not Yet Started  | [เร็วๆ นี้](./th-th/0.md)               |
+| 🇹🇷 Turkish       | `tr-tr` | ⏳ Not Yet Started  | [Yakında](./tr-tr/0.md)                  |
+| 🌍 More Coming Soon |         | 🚧 Planning         | —                                        |
+
 
 > Want to help bring this book to your language? See [Contributing](#-contributing)
 
