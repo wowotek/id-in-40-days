@@ -36,7 +36,7 @@ This book (except for English and Japanese) was created by Primarily Using AI ge
 ---
 
 ## 📣 Join the Community & Free Support
-I offer free Indonesian lessons **in English only**, feedback, and Q&A support via our online learning space.
+I offer free Indonesian lessons **in English only**, English Lessons **in Bahasa Indonesia only**, feedback, and Q&A support via our online learning space.
 
 Join our Indonesian language community and get:
 - Live help via chat
