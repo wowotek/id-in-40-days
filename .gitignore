@@ -1,4 +1,13 @@
+# --- AI STUFFS ---
+# any AI prompt should not be included in project,
+# please use your own prompt to generate the content
+# or help you automate the style before fully commiting to
+# manually editing the content
+
 INIT.mdc
 DEV_WORKFLOW.md
 SELFIMPROVE.md
 TASKS.md
+.cursor/
+
+# -----------------------------------------------
