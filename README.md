@@ -14,18 +14,7 @@ This book was initially created using AI to get things rolling. After that, the 
 |------------------|---------|--------------------|------------------------------------------|
 | 🇯🇵 Japanese      | `jp-jp` | 🤖 0% Human         | [学び始める](./jp-jp/0.md)               |
 | 🇺🇸 English (US)  | `en-us` | 🚧 ~15% Human      | [Start Learning](./en-us/0.md)           |
-| 🇪🇸 Spanish       | `es-es` | 🤖 0% Human         | [Empezar a aprender](./es-es/0.md)       |
-| 🇨🇳 Mandarin      | `zh-cn` | 🤖 0% Human         | [开始学习](./zh-cn/0.md)                 |
-| 🇫🇷 French        | `fr-fr` | 🤖 0% Human         | [Commencer à apprendre](./fr-fr/0.md)    |
-| 🇩🇪 German        | `de-de` | 🤖 0% Human         | [Jetzt lernen](./de-de/0.md)             |
-| 🇵🇹 Portuguese    | `pt-pt` | 🤖 0% Human         | [Começar a aprender](./pt-pt/0.md)       |
-| 🇷🇺 Russian       | `ru-ru` | 🤖 0% Human         | [Начать обучение](./ru-ru/0.md)          |
-| 🇮🇳 Hindi         | `hi-in` | 🤖 0% Human         | [सीखना शुरू करें](./hi-in/0.md)         |
-| 🇸🇦 Arabic        | `ar-sa` | 🤖 0% Human         | [ابدأ التعلم](./ar-sa/0.md)              |
-| 🇮🇹 Italian       | `it-it` | 🤖 0% Human         | [Inizia a imparare](./it-it/0.md)        |
 | 🇰🇷 Korean        | `ko-kr` | 🤖 0% Human         | [지금 시작하세요](./ko-kr/0.md)           |
-| 🇹🇭 Thai          | `th-th` | 🤖 0% Human         | [เริ่มเรียนรู้](./th-th/0.md)             |
-| 🇹🇷 Turkish       | `tr-tr` | 🤖 0% Human         | [Öğrenmeye Başla](./tr-tr/0.md)          |
 | 🌍 More Coming Soon |         | 🚧 Planning         | —                                        |
 
 >  100% Human to 25% Human: From 25% Human check point its carefully and honestly translated, and transformed manually word per word by Human.
